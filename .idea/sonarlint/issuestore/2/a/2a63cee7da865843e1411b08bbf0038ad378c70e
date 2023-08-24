@@ -1,0 +1,142 @@
+
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Îø‚üÿÿÿÿ
+R
+java:S2629@"7Use the built-in formatting to construct this argument.(™ÅÃ±ùÿÿÿÿ
+M
+java:S2629C"7Use the built-in formatting to construct this argument.(çÄ¨Æ
+R
+java:S2629F"7Use the built-in formatting to construct this argument.(¯ÌøÖşÿÿÿÿ
+M
+java:S2629J"7Use the built-in formatting to construct this argument.(€ÖÓù
+M
+java:S2629N"7Use the built-in formatting to construct this argument.(±šƒã
+M
+java:S2629T"7Use the built-in formatting to construct this argument.(Å¹üä
+R
+java:S2629W"7Use the built-in formatting to construct this argument.(ÓÉ­‘şÿÿÿÿ
+R
+java:S2629Y"7Use the built-in formatting to construct this argument.(‚à¿‰øÿÿÿÿ
+R
+java:S2629`"7Use the built-in formatting to construct this argument.(ªÆ¢½ıÿÿÿÿ
+R
+java:S2629e"7Use the built-in formatting to construct this argument.(ó°‰¢øÿÿÿÿ
+M
+java:S2629j"7Use the built-in formatting to construct this argument.(€ãÕª
+M
+java:S2629m"7Use the built-in formatting to construct this argument.(áá­ì
+R
+java:S2629o"7Use the built-in formatting to construct this argument.(‰ÛÜ‚øÿÿÿÿ
+L
+java:S2629r"7Use the built-in formatting to construct this argument.(ÿ„Ók
+R
+java:S2629t"7Use the built-in formatting to construct this argument.(¦öùõüÿÿÿÿ
+S
+java:S2629ƒ"7Use the built-in formatting to construct this argument.(‚£•³üÿÿÿÿ
+S
+java:S2629‰"7Use the built-in formatting to construct this argument.(Ñ¬şÉúÿÿÿÿ
+N
+java:S2629‹"7Use the built-in formatting to construct this argument.(ïƒê
+S
+java:S2629‘"7Use the built-in formatting to construct this argument.(À» ƒùÿÿÿÿ
+S
+java:S2629–"7Use the built-in formatting to construct this argument.(Ú¾±¾üÿÿÿÿ
+N
+java:S2629˜"7Use the built-in formatting to construct this argument.(Ä¹™®
+N
+java:S2629™"7Use the built-in formatting to construct this argument.(Ë²•
+N
+java:S2629Ÿ"7Use the built-in formatting to construct this argument.(û¹“ù
+S
+java:S2629¥"7Use the built-in formatting to construct this argument.(£ÉĞ¢øÿÿÿÿ
+N
+java:S2629§"7Use the built-in formatting to construct this argument.(Ë²•
+N
+java:S2629ª"7Use the built-in formatting to construct this argument.(û¹“ù
+S
+java:S2629¯"7Use the built-in formatting to construct this argument.(öâŒøÿÿÿÿ
+S
+java:S2629¹"7Use the built-in formatting to construct this argument.(§ê‘Áüÿÿÿÿ
+N
+java:S2629Ä"7Use the built-in formatting to construct this argument.(ö¶©å
+S
+java:S2629ƒ"7Use the built-in formatting to construct this argument.(ô²¹”ûÿÿÿÿ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(¹âÙøÿÿÿÿ
+P
+java:S1611;"5Remove the parentheses around the "service" parameter(§÷÷§øÿÿÿÿ
+‡
+java:S1130>"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Îø‚üÿÿÿÿ
+\
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(™ÅÃ±ùÿÿÿÿ
+W
+java:S3457C"AFormat specifiers should be used instead of string concatenation.(çÄ¨Æ
+\
+java:S3457F"AFormat specifiers should be used instead of string concatenation.(¯ÌøÖşÿÿÿÿ
+W
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(€ÖÓù
+W
+java:S3457N"AFormat specifiers should be used instead of string concatenation.(±šƒã
+W
+java:S3457T"AFormat specifiers should be used instead of string concatenation.(Å¹üä
+\
+java:S3457W"AFormat specifiers should be used instead of string concatenation.(ÓÉ­‘şÿÿÿÿ
+\
+java:S3457Y"AFormat specifiers should be used instead of string concatenation.(‚à¿‰øÿÿÿÿ
+H
+java:S1172^"2Remove this unused method parameter "serviceType".(Œºãê
+\
+java:S3457`"AFormat specifiers should be used instead of string concatenation.(ªÆ¢½ıÿÿÿÿ
+M
+java:S1172c"2Remove this unused method parameter "serviceType".(µü»§øÿÿÿÿ
+\
+java:S3457e"AFormat specifiers should be used instead of string concatenation.(ó°‰¢øÿÿÿÿ
+W
+java:S3457j"AFormat specifiers should be used instead of string concatenation.(€ãÕª
+W
+java:S3457m"AFormat specifiers should be used instead of string concatenation.(áá­ì
+\
+java:S3457o"AFormat specifiers should be used instead of string concatenation.(‰ÛÜ‚øÿÿÿÿ
+V
+java:S3457r"AFormat specifiers should be used instead of string concatenation.(ÿ„Ók
+\
+java:S3457t"AFormat specifiers should be used instead of string concatenation.(¦öùõüÿÿÿÿ
+W
+java:S3457|"AFormat specifiers should be used instead of string concatenation.(ü”²
+]
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(‚£•³üÿÿÿÿ
+]
+java:S3457‰"AFormat specifiers should be used instead of string concatenation.(Ñ¬şÉúÿÿÿÿ
+X
+java:S3457‹"AFormat specifiers should be used instead of string concatenation.(ïƒê
+]
+java:S3457‘"AFormat specifiers should be used instead of string concatenation.(À» ƒùÿÿÿÿ
+]
+java:S3457–"AFormat specifiers should be used instead of string concatenation.(Ú¾±¾üÿÿÿÿ
+X
+java:S3457˜"AFormat specifiers should be used instead of string concatenation.(Ä¹™®
+X
+java:S3457™"AFormat specifiers should be used instead of string concatenation.(Ë²•
+X
+java:S3457Ÿ"AFormat specifiers should be used instead of string concatenation.(û¹“ù
+]
+java:S3457¥"AFormat specifiers should be used instead of string concatenation.(£ÉĞ¢øÿÿÿÿ
+X
+java:S3457§"AFormat specifiers should be used instead of string concatenation.(Ë²•
+X
+java:S3457ª"AFormat specifiers should be used instead of string concatenation.(û¹“ù
+]
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(öâŒøÿÿÿÿ
+]
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(§ê‘Áüÿÿÿÿ
+X
+java:S3457Ä"AFormat specifiers should be used instead of string concatenation.(ö¶©å
+W
+java:S3457Ì"AFormat specifiers should be used instead of string concatenation.(’ùÅ 
+]
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(¹à‹åùÿÿÿÿ
+]
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(ô²¹”ûÿÿÿÿ
+X
+java:S3457ˆ"AFormat specifiers should be used instead of string concatenation.(Œ­õÚ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¹âÙøÿÿÿÿ

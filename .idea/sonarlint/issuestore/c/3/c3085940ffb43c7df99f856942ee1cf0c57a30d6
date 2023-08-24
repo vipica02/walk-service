@@ -1,0 +1,50 @@
+
+o	java:S135•"YReduce the total number of break and continue statements in this loop to use at most one.(ÒŸ˜–
+Q
+java:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+L
+java:S2629]"7Use the built-in formatting to construct this argument.(¬õïf
+N
+java:S2629µ"7Use the built-in formatting to construct this argument.(õ“
+s
+java:S2629æ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¡¸ü¨
+S
+java:S2629ì"7Use the built-in formatting to construct this argument.(Õûèûÿÿÿÿ
+N
+java:S2629î"7Use the built-in formatting to construct this argument.(¶ƒ‰ÿ
+s
+java:S2629ï"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(‹ª®©
+V
+java:S3457]"AFormat specifiers should be used instead of string concatenation.(¬õïf
+W
+java:S3457n"AFormat specifiers should be used instead of string concatenation.(¤¢ˆÇ
+W
+java:S3457p"AFormat specifiers should be used instead of string concatenation.(‰ıµî
+V
+java:S3457u"AFormat specifiers should be used instead of string concatenation.(¬õïf
+m
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Íÿ÷¡ùÿÿÿÿ
+]
+java:S3457›"AFormat specifiers should be used instead of string concatenation.(˜³¿æşÿÿÿÿ
+]
+java:S3457°"AFormat specifiers should be used instead of string concatenation.(îä«ñıÿÿÿÿ
+X
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(ùÂñæ
+X
+java:S3457µ"AFormat specifiers should be used instead of string concatenation.(õ“
+X
+java:S3457¾"AFormat specifiers should be used instead of string concatenation.(ë® 
+]
+java:S3457İ"AFormat specifiers should be used instead of string concatenation.(¡Î‰›ûÿÿÿÿ
+X
+java:S3457æ"AFormat specifiers should be used instead of string concatenation.(¡¸ü¨
+]
+java:S3457ì"AFormat specifiers should be used instead of string concatenation.(Õûèûÿÿÿÿ
+X
+java:S3457î"AFormat specifiers should be used instead of string concatenation.(¶ƒ‰ÿ
+X
+java:S3457ï"AFormat specifiers should be used instead of string concatenation.(‹ª®©
+^
+java:S1128"HRemove this unused import 'com.uniform.water.model.entity.SettleEntity'.(Â±±–
+g
+java:S1128!"LRemove this unused import 'com.uniform.water.util.Constant.PREFIX_CONSUMER'.(¬Îˆºúÿÿÿÿ

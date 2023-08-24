@@ -1,0 +1,23 @@
+
+k
+java:S1192š"HDefine a constant instead of duplicating this literal "Lá»—i: " 3 times.(À„ïüÿÿÿÿ8§—Þ¿1
+d
+java:S1192ò"HDefine a constant instead of duplicating this literal "tranBrn" 3 times.(ÏÑÚ‰ùÿÿÿÿ
+t
+java:S3655ó"VCall "transDetail.isPresent()" or "!transDetail.isEmpty()" before accessing the value.(‘Ì¡ý8í›Þ¿1
+e	java:S116Q"PRename this field "COMMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú©š¤
+7
+java:S1170Q"!Make this final field static too.(Ú©š¤
+X
+java:S1172»"5Remove this unused method parameter "oauth2UserInfo".(¤ìµ‘ýÿÿÿÿ8²­Ø¿1
+R
+java:S1874ð"/Remove this use of "setDate"; it is deprecated.(Ú§œ‚ûÿÿÿÿ8Ò­Ø¿1
+R
+java:S1874ð"/Remove this use of "getDate"; it is deprecated.(Ú§œ‚ûÿÿÿÿ8Ô­Ø¿1
+O
+java:S1172ê
+"8Remove this unused method parameter "settleAccountInfo".(°ªŠ
+B
+java:S1172‡"+Remove this unused method parameter "desc".(ÞÏ¾
+N
+java:S1068>"9Remove this unused "scheduleLogRepository" private field.(ñÚŸ(

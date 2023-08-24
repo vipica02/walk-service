@@ -1,0 +1,11 @@
+com\ttc\walk\num\TimePeriod.class
+com\ttc\walk\model\AccountClaim.class
+com\ttc\walk\request\UpdateStepsDailyRequest$UpdateStepsDailyRequestBuilder.class
+com\ttc\walk\response\UserInfoResponse.class
+com\ttc\walk\response\UserWalkDataResponse.class
+com\ttc\walk\model\AccountAuth.class
+com\ttc\walk\num\AccountStatus.class
+com\ttc\walk\request\CreateUserRequest.class
+com\ttc\walk\request\UpdateStepsDailyRequest.class
+com\ttc\walk\request\LoginRequest.class
+com\ttc\walk\model\ApiSkipper.class

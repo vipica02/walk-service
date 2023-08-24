@@ -1,0 +1,9 @@
+
+H
+java:S6126B"2Replace this String concatenation with Text block.(½ÇÀº
+i
+java:S1128"NRemove this unused import 'com.uniform.spring.utils.filter.FilterBuilderUtil'.(¯‰Ûøùÿÿÿÿ
+a
+java:S1128"KRemove this unused import 'com.uniform.spring.utils.filter.SearchCriteria'.(‰ú›ç
+l
+java:S1128"QRemove this unused import 'com.uniform.spring.utils.filter.SpecificationBuilder'.(ÖÝÜ˜ûÿÿÿÿ

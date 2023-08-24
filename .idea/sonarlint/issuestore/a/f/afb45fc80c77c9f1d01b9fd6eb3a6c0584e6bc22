@@ -1,0 +1,14 @@
+
+_
+java:S1192;"IDefine a constant instead of duplicating this literal "Job_Auto" 4 times.(Àœù‹
+f
+java:S1301/"KReplace this "switch" statement by "if" statements to increase readability.(àœƒžþÿÿÿÿ
+s	java:S131/"YComplete cases by adding the missing enum constants or add a default case to this switch.(àœƒžþÿÿÿÿ
+H
+java:S1135o"2Complete the task associated to this TODO comment.(ž¢¡ì
+\
+java:S1128"ARemove this unused import 'com.uniform.water.jobrunr.JobService'.(©—ñ÷øÿÿÿÿ
+L
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®
+k
+java:S1128"PRemove this unused import 'org.springframework.scheduling.annotation.Scheduled'.(‚¡®Üûÿÿÿÿ

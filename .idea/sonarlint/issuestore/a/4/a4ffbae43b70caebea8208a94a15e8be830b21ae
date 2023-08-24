@@ -1,0 +1,17 @@
+
+Ä
+java:S1192€" Define a constant instead of duplicating this literal "KhÃ´ng thá»ƒ map map dá»¯ liá»‡u ká»³ hÃ³a Ä‘Æ¡n, dá»¯ liá»‡u pháº£i cÃ³ Ä‘á»‹nh dáº¡ng MM/yyyy" 4 times.(ïç¾¾ıÿÿÿÿ8İû½1
+[
+java:S59937"9Change the visibility of this constructor to "protected".(„÷ Şûÿÿÿÿ8Å‘¦¼1
+P
+java:S1611/"3Remove the parentheses around the "value" parameter(¨À¬8Ó‘¦¼1
+U
+java:S16110"3Remove the parentheses around the "value" parameter(ÂÆÛ‰ùÿÿÿÿ8Õ‘¦¼1
+U
+java:S16111"3Remove the parentheses around the "value" parameter(ı¶Ù‚şÿÿÿÿ8Ö‘¦¼1
+P
+java:S16112"3Remove the parentheses around the "value" parameter(ùğ×8Ö‘¦¼1
+U
+java:S16113"3Remove the parentheses around the "value" parameter(¸òì´úÿÿÿÿ8Ö‘¦¼1
+w
+java:S4276—"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(²¢£®ûÿÿÿÿ
